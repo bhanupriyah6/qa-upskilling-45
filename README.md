@@ -12,3 +12,10 @@
 - Installed Python
 - Installed Git
 - Created first GitHub repository
+
+## Day 2
+- Understand Python variables
+- Learn data types
+- Understand type conversion
+- Learn arithmetic, logical and relational operators
+- Create five small python programs
