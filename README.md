@@ -19,3 +19,10 @@
 - Understand type conversion
 - Learn arithmetic, logical and relational operators
 - Create five small python programs
+
+## Day 3
+- Understand Python conditional statements (if, if-else, if-elif-else).
+- Learn match-case.
+- Understand for and while loops.
+- Learn break, continue, and nested loops.
+- Create five small Python programs.
