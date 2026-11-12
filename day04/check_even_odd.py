@@ -3,9 +3,6 @@ def check_even_odd(number):
         return "Even number"
     else:
         return "Odd number"
-
-
 num = int(input("Enter a number: "))
 result = check_even_odd(num)
-
 print(result)
